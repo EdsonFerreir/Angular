@@ -1,3 +1,3 @@
-TESTE atualziado pelo visual
+TESTE atualizado pelo visual
 
 O Git/GitHub.
